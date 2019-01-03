@@ -27,6 +27,8 @@ public class OwnAdventure {
 		 JOptionPane.showMessageDialog(null, "The tiger saw the girl as vulnerable prey and chased her just as she tried to run. Eventually the tiger caught up to her and that was the girl's most unfortunate accident.");
 			System.exit(0);
 	 }
+	 
+	 JOptionPane.showMessageDialog(null, "");
 	 }
 	}
 
